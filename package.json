@@ -1,0 +1,11 @@
+{
+  "name": "webapp_devops",
+  "version": "1.0.0",
+  "description": "This repo is to demonstrate understanding of git commands, git-GitHub integration, usage of GitHub Actions for creating a Continuous Integration (CI) pipeline.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Group 14",
+  "license": "ISC"
+}
